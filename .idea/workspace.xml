@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d064db8-b0bf-41f1-90ac-6bb6572e11dc" name="Default Changelist" comment="tm 171 demo project">
+    <list default="true" id="3d064db8-b0bf-41f1-90ac-6bb6572e11dc" name="Default Changelist" comment="tm 172 showing the modal by toggling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/app.js" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605726621028</updated>
       <workItem from="1605726622736" duration="397000" />
-      <workItem from="1605955851018" duration="2685000" />
+      <workItem from="1605955851018" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="tm 171 demo project">
       <created>1605958122186</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605958122186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tm 172 showing the modal by toggling">
+      <created>1605959105939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605959105939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,13 +110,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tm 171 demo project" />
-    <option name="LAST_COMMIT_MESSAGE" value="tm 171 demo project" />
+    <MESSAGE value="tm 172 showing the modal by toggling" />
+    <option name="LAST_COMMIT_MESSAGE" value="tm 172 showing the modal by toggling" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1605958127841">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1605959120050">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/0.-720.1280.720@0.0.1440.900" timestamp="1605958127841" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/0.-720.1280.720@0.0.1440.900" timestamp="1605959120050" />
     <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605955857952">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
