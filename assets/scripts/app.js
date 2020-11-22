@@ -94,6 +94,7 @@ const clearMovieInput = () => {
 const cancelAddMovieHandler = () => {
   closeMovieModal();
   clearMovieInput();
+  toggleBackdrop();
 };
 
 const addMovieHandler = () => {
@@ -128,6 +129,7 @@ const addMovieHandler = () => {
 const backdropClickHandler = () => {
   closeMovieModal();
   closeMovieDeletionModal();
+  clearMovieInput();
 };
 
 startAddMovieButton.addEventListener('click', showMovieModal);
