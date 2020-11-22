@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d064db8-b0bf-41f1-90ac-6bb6572e11dc" name="Default Changelist" comment="tm 174 validating user input">
+    <list default="true" id="3d064db8-b0bf-41f1-90ac-6bb6572e11dc" name="Default Changelist" comment="tm 175 clearing usrInput">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/app.js" afterDir="false" />
     </list>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605726621028</updated>
       <workItem from="1605726622736" duration="397000" />
-      <workItem from="1605955851018" duration="7403000" />
+      <workItem from="1605955851018" duration="8543000" />
     </task>
     <task id="LOCAL-00001" summary="tm 171 demo project">
       <created>1605958122186</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605965571108</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tm 175 clearing usrInput">
+      <created>1606044538619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606044538619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,13 +142,14 @@
     <MESSAGE value="tm 173 controlling the backdrop" />
     <MESSAGE value="tm 173 controlling the backdrop werkt" />
     <MESSAGE value="tm 174 validating user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="tm 174 validating user input" />
+    <MESSAGE value="tm 175 clearing usrInput" />
+    <option name="LAST_COMMIT_MESSAGE" value="tm 175 clearing usrInput" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1605965574330">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606044542300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/0.-720.1280.720@0.0.1440.900" timestamp="1605965574330" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/0.-720.1280.720@0.0.1440.900" timestamp="1606044542300" />
     <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605955857952">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
